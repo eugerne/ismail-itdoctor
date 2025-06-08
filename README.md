@@ -6,4 +6,3 @@
  ❕ [Правила сообщества ITDoctor](https://t.me/itdoctor_official/20)  
  💡 [На каких платформах я работаю](https://t.me/itdoctor_official/23)  
  🎥 [Курсы на Stepik](https://stepik.org/users/387773773/teach)  
- 📌 [План бесплатного обучения](https://t.me/itdoctor_official/58)
